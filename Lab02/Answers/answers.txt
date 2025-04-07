@@ -3,7 +3,7 @@ Answer 1: Nếu cả hai constructor chỉ có tham số String, Java sẽ khôn
 
 Question 2 (Part 14): Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of arguments for dvd. Compared to an array parameter. What do you prefer in this case?
 Answer 2:  
- 	//Method addDigitalVideoDisc() which allows to pass an arbitrary number of arguments for dvd.
+//	  Method addDigitalVideoDisc() which allows to pass an arbitrary number of arguments for dvd.
 //    public void addDigitalVideoDisc(DigitalVideoDisc... dvds) {
 //        for (DigitalVideoDisc dvd : dvds) {
 //            if (qtyOrdered < MAX_NUMBERS_ORDERED) {
